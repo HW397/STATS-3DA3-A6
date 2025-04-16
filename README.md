@@ -15,6 +15,8 @@ This is a Team Homework Assignment 6 for STATS-3DA3
 
 Group member contributionsL:
 
+Group: W25HW6 23
+
 Howard Wang: Question 1-8
 Yiming Xia: Question 9-17
 
